@@ -9,4 +9,9 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.numeris_ci.dailyfortune.FortuneActivity">
 
+    <TextView
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fortune" />
 </RelativeLayout>
